@@ -1,0 +1,19 @@
+# Arquivos de configuração
+/config.json
+.env
+
+# Ambientes virtuais
+/venv/
+/.venv/
+
+# Arquivos de log
+/log/
+
+# Arquivos temporários
+*.pyc
+__pycache__/
+
+# Arquivos gerados
+/build/
+/dist/
+*.egg-info/
